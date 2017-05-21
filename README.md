@@ -1,2 +1,11 @@
 # LabAccessMgmt
-Lab Access Mgmt project for NEU Boston
+
+
+This project is dedicated for Lab Access Mgmt.
+
+Tech Stack:
+MongoDB
+ExpressJS
+AngularJS
+NodeJS
+AWS for hosting
